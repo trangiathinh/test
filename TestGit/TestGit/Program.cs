@@ -6,7 +6,8 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var city = "Ho Chi Minh";
+            Console.WriteLine("Hello World in "+city);
         }
     }
 }
