@@ -1,0 +1,11 @@
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\bin\Debug\netcoreapp2.2\TestGit.deps.json
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\bin\Debug\netcoreapp2.2\TestGit.runtimeconfig.json
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\bin\Debug\netcoreapp2.2\TestGit.runtimeconfig.dev.json
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\bin\Debug\netcoreapp2.2\TestGit.dll
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\bin\Debug\netcoreapp2.2\TestGit.pdb
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\obj\Debug\netcoreapp2.2\TestGit.csprojAssemblyReference.cache
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\obj\Debug\netcoreapp2.2\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\obj\Debug\netcoreapp2.2\TestGit.AssemblyInfoInputs.cache
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\obj\Debug\netcoreapp2.2\TestGit.AssemblyInfo.cs
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\obj\Debug\netcoreapp2.2\TestGit.dll
+C:\Users\trang\OneDrive\Máy tính\TestGit\TestGit\TestGit\obj\Debug\netcoreapp2.2\TestGit.pdb
